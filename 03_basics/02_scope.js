@@ -2,7 +2,7 @@ let a = 3
 const b = 2
 const c = 4
 
-if (true) {
+if (true) { 
     let a = 52
     const b = 66
     const c = 88
